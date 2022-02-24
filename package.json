@@ -1,5 +1,6 @@
 {
-  "name": "node",
+  "name": "node-typescript-start-template",
+  "author": "Weikun Ye",
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
